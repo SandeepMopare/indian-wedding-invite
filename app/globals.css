@@ -147,7 +147,7 @@ body::before {
   font-family: 'Tangerine', cursive;
   font-weight: 700;
   font-size: clamp(2.6rem, 6vw, 4rem);
-  line-height: 1;
+  line-height: 1.32;
   margin: 0.4rem 0 0.6rem;
 }
 
@@ -397,7 +397,7 @@ body::before {
   font-family: 'Tangerine', cursive;
   font-weight: 700;
   font-size: 2.4rem;
-  line-height: 1;
+  line-height: 1.32;
   color: var(--gold-100);
   margin-bottom: 0.4rem;
 }
@@ -473,7 +473,7 @@ body::before {
   font-family: 'Great Vibes', cursive;
   font-size: 2.4rem;
   color: var(--gold-200);
-  line-height: 1;
+  line-height: 1.32;
 }
 .closing-message {
   font-style: italic;

@@ -321,7 +321,7 @@ export default function Page() {
                 </div>
                 <div className="event-card">
                   <h4>The Wedding</h4>
-                  <p className="event-name gold-text">Vivah Sanskar</p>
+                  <p className="event-name gold-text">Wedding Ceremony</p>
                   <p>Saturday, 9th May 2026</p>
                   <span className="muhurat">Muhurat · 12:35 PM</span>
                   <p className="muted" style={{ marginTop: "0.6rem" }}>
